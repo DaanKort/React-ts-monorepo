@@ -1,0 +1,9 @@
+{
+  "name": "@myapp/workspace-b",
+  "version": "1.0.0",
+  "main": "main.js",
+  "dependencies": {
+    "@myapp/workspace-a" : "1.0.0",
+    "@myapp/package-a" : "1.0.0"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "@myapp/tspackage",
+  "version": "1.0.0",
+  "main": "dist/main.js",
+  "types": "dist/main.d.ts",
+    "scripts": {
+      "build": "tsc"
+    },
+  "dependencies": {
+    "typescript": "^3.9.5"
+  }
+}
